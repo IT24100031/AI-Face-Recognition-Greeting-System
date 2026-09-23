@@ -1,0 +1,4 @@
+opencv-python==4.12.0.88
+insightface==2.0
+onnxruntime==1.30.0
+numpy
